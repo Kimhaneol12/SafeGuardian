@@ -68,6 +68,11 @@ python test.py
 
 ## 🚀 파이프라인 실행 방법 (SafeGuardian)
 
+> 🔗 [traced_model.pt 다운로드 (Google Drive)](https://drive.google.com/file/d/1AKUEylkQhEE6As2J1ZrSLhD509I8yxy1/view?usp=sharing)
+
+1. 위 링크를 클릭하여 `traced_model.pt` 파일을 다운로드
+2. 해당 파일을 프로젝트의 `src/` 디렉토리에 이동
+
 ```bash
 cd src/
 python main.py
